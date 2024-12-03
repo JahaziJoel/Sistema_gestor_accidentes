@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "c:\\Users\\Jahaziel\\Desktop\\Tarea-3-web-main\\Tarea-3-web-main\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\tarea3.bundle.scp.css",
+      "PackagePath": "staticwebassets\\tarea3.bundle.scp.css"
+    },
+    {
+      "Id": "c:\\Users\\Jahaziel\\Desktop\\Tarea-3-web-main\\Tarea-3-web-main\\wwwroot\\Images\\Imagen1.jpg",
+      "PackagePath": "staticwebassets\\Images\\Imagen1.jpg"
+    },
+    {
+      "Id": "c:\\Users\\Jahaziel\\Desktop\\Tarea-3-web-main\\Tarea-3-web-main\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "c:\\Users\\Jahaziel\\Desktop\\Tarea-3-web-main\\Tarea-3-web-main\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "c:\\Users\\Jahaziel\\Desktop\\Tarea-3-web-main\\Tarea-3-web-main\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.tarea3.props",
+      "PackagePath": "build\\tarea3.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.tarea3.props",
+      "PackagePath": "buildMultiTargeting\\tarea3.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.tarea3.props",
+      "PackagePath": "buildTransitive\\tarea3.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.tarea3.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
